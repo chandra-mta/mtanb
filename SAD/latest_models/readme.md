@@ -13,6 +13,19 @@ Test RMSE: 0.009
 ![4OAVHRMT_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/_4OAVHRMT_Model_Dashboard.png)
 
 
+
+### RT 61: TFTE CONE, MSID= OOBTHR39
+
+![OOBTHR39_breakdown](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_breakdown_plot.png)
+
+Test X shape: (20956, 8, 3)
+
+Test RMSE: 0.037
+
+![OOBTHR39_closeup](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_closeup.png)
+
+![OOBTHR39_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/_OOBTHR39_Model_Dashboard.png)
+
 ### Center Blank High CP, MSID= 2CBHUAST
 
 ![2CBHUAST_breakdown](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/2CBHUAST_breakdown_plot.png)
@@ -26,14 +39,15 @@ Test RMSE: 2.515
 ![2CBHUAST_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/_2CBHUAST_Model_Dashboard.png)
 
 
-### RT 61: TFTE CONE, MSID= OOBTHR39
+### Center Blank Low CP U Axis, MSID= 2CBLUAST
 
-![OOBTHR39_breakdown](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_breakdown_plot.png)
+![2CBLUAST_breakdown](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/2CBLUAST_breakdown_plot.png)
 
-Test X shape: (20956, 8, 3)
+Test X shape: (38063, 8, 3)
 
-Test RMSE: 0.037
+Test RMSE: 1.225
 
-![OOBTHR39_closeup](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_closeup.png)
+![2CBLUAST_closeup](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/2CBLUAST_closeup.png)
 
-![OOBTHR39_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/_OOBTHR39_Model_Dashboard.png)
+![2CBLUAST_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/2CBLUAST_closeup.png)
+
