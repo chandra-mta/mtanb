@@ -9,3 +9,4 @@ The smart anomaly detection will use past thermal profiles to build models and w
 - Attach errors to each prediction, test anomaly detection with this
 - Expanding list of msids we build models with 
 - Looking into using genetic algorithms for feature selection and other ways to do feature selection
+- Visualization of learning
