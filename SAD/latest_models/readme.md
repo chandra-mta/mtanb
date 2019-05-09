@@ -1,4 +1,4 @@
-# Latest Models:
+# Latest Models (updated May 9 2019):
 
 ### HRMA Avg. Temp, MSID= 4OAVHRMT
 
@@ -12,6 +12,8 @@ Test RMSE: 0.009
 
 ![4OAVHRMT_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/_4OAVHRMT_Model_Dashboard.png)
 
+### Uncertainty Exploration 4OAVHRMT
+![4OAVHRMT_uncertainty](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/4OAVHRMT_uncertainty_dashboard.png)
 
 
 ### RT 61: TFTE CONE, MSID= OOBTHR39
