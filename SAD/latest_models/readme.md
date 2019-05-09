@@ -28,6 +28,9 @@ Test RMSE: 0.037
 
 ![OOBTHR39_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/_OOBTHR39_Model_Dashboard.png)
 
+### Uncertainty Exploration OOBTHR39
+![OOBTHR39_uncertainty](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_uncertainty_dashboard.png)
+
 ### Center Blank High CP, MSID= 2CBHUAST
 
 ![2CBHUAST_breakdown](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/2CBHUAST_breakdown_plot.png)
