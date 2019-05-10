@@ -43,6 +43,8 @@ Test RMSE: 2.515
 
 ![2CBHUAST_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/_2CBHUAST_Model_Dashboard.png)
 
+### Uncertainty Exploration 2CBHUAST
+![2CBHUAST_uncertainty](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/2CBHUAST_uncertainty_dashboard.png)
 
 ### Center Blank Low CP U Axis, MSID= 2CBLUAST
 
