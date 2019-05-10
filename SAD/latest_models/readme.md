@@ -58,3 +58,5 @@ Test RMSE: 1.225
 
 ![2CBLUAST_xija](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/2CBLUAST_closeup.png)
 
+### Uncertainty Exploration 2CBLUAST
+![2CBLUAST_uncertainty](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/2CBLUAST_uncertainty_dashboard.png)
