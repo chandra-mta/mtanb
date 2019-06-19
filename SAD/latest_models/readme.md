@@ -1,4 +1,26 @@
-# Latest Models (updated May 9 2019):
+# Latest Models 
+## Updates from June 19 2019 (MSID OOBTHR39)
+### Multi-year training data, 2019 test data
+![OOBTHR39_full](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_multi_year_dash.png)
+
+### 2018 training data, 2019 test data
+![OOBTHR39_2018](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_test2019_train2018_full_dash.png)
+
+### 2017 training data, 2019 test data
+![OOBTHR39_2017](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_test2019_train2017_full_dash.png)
+
+### 2016 training data, 2019 test data
+![OOBTHR39_2016](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_test2019_train2016_full_dash.png)
+
+### 2015 training data, 2019 test data
+![OOBTHR39_2015](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_test2019_train2015_full_dash.png)
+
+### 2014 training data, 2019 test data
+![OOBTHR39_2014](https://github.com/chandra-mta/mtanb/blob/master/SAD/latest_models/OOBTHR39_test2019_train2014_full_dash.png)
+
+
+
+# (updated May 9 2019):
 
 ### HRMA Avg. Temp, MSID= 4OAVHRMT
 
