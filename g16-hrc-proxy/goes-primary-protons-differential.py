@@ -18,15 +18,17 @@ def fetch_goes_data():
     json_url = requests.get(URL)
     data = json_url.json()
     
-    # Remove this for loop when the json files contain
-    # all the keys
-    for dat in data:
-        if 'channel' not in dat.keys():
-            dat.update({'channel': ''})
-        if 'yaw_flip' not in dat.keys():
-            dat.update({'yaw_flip': ''})
+    t = Table(data)    
+    cols = t.colnames
+
+    if np.any(['energy' not in cols,
+               'channel' not in cols,
+               'flux' not in cols,
+               'time_tag' not in cols,
+               'satellite' not in cols]):
+
+        raise Exception('json file does not contain required fields')
         
-    t = Table(data)
     return t
 
 
